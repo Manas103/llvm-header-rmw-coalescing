@@ -1,0 +1,29 @@
+name: ci
+on: [push, pull_request]
+jobs:
+  build-and-test:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: install LLVM 14 and FileCheck
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y llvm-14 llvm-14-dev llvm-14-tools clang-14
+          pip install --user lit
+      - name: configure and build the pass plugin
+        run: |
+          cmake -S . -B build -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH=/usr/lib/llvm-14/lib/cmake/llvm
+          cmake --build build -j2
+      - name: lit + FileCheck tests
+        run: |
+          export RMW_PLUGIN_PATH="$(pwd)/build/libRmwCoalesce.so"
+          export OPT_BIN=opt-14
+          export FILECHECK_BIN=FileCheck-14
+          ~/.local/bin/lit -v test
+      - name: benchmark (static instructions / simulated cycles)
+        run: |
+          clang-14 -O2 -S -emit-llvm kernels/kernels.c -o build/baseline.ll
+          opt-14 -load-pass-plugin=build/libRmwCoalesce.so -passes='rmw-coalesce,instcombine,simplifycfg,dce' -S build/baseline.ll -o build/optimized.ll
+          python3 tools/benchmark.py build/baseline.ll build/optimized.ll
+      - name: execution-level differential check
+        run: bash tools/run_runtime_check.sh "$(pwd)/build/libRmwCoalesce.so"

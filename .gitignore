@@ -1,0 +1,9 @@
+build/
+build_artifacts/
+build_test/
+*.o
+*.ll
+!test/*.ll
+__pycache__/
+.pytest_cache/
+.lit_test_times.txt

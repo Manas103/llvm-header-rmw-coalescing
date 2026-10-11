@@ -1,0 +1,23 @@
+kernel                       base_instr  opt_instr  base_cyc  opt_cyc
+k01_dscp_ecn                         12          7        37       23
+k02_vlan_pcp_dei                     13         10        38       29
+k03_tcp_flags_ack_syn                13         10        38       29
+k04_ipv6_tclass                      13          7        38       23
+k05_mpls_tc_s                        13         10        38       29
+k06_gre_flags                        13         10        38       29
+k07_vxlan_flags                      19         14        64       47
+k08_gtp_flags                        12         10        37       29
+k09_ipv4_flags_frag                  19         13        64       46
+k10_vlan_tpid_lo                     12          6        37       22
+k11_tcp_ecn_bits                     13         11        38       30
+k12_ipv6_hop_limit_region            13          7        38       23
+k13_dscp_ecn_aliased                 13         13        26       26
+k14_vlan_aliased                     14         14        27       27
+k15_tcp_flags_aliased                14         14        27       27
+k16_mpls_aliased                     14         14        27       27
+k_three_a_tos_full                   17         10        62       40
+k_three_b_vlan_full                  18         12        63       45
+
+totals over 18 kernels:
+  static instructions: 255 (-O2 baseline) -> 192 (+rmw-coalesce), 24.7% fewer
+  simulated cycles/packet: 737 -> 551, 25.2% fewer
