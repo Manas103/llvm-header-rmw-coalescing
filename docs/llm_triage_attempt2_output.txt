@@ -1,0 +1,4 @@
+{"review_now": [240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 128, 129, 130, 145, 146, 147, 162, 163, 164, 179, 133, 150, 167, 126, 143, 160, 177], "rationale": "I picked the 10 indirect calls whose function names (hot_lockredirect, hot_syscallredirect) suggest they reach a lock or syscall through a pointer, which a category-only screen would miss. I also picked direct calls that stop a hot function outright and are easy to fix: the sleep family, waitpid and accept. I left out the generic and clean_fp indirect calls, the allocations, trylock and the other locks, and the I/O calls that may be non-blocking."}
+
+--- stderr ---
+Warning: this sign-in ends between 2026-11-09 and 2026-11-12 (in 2 days at the earliest). Renewing it does not move those dates. Run claude auth login before then, or use claude setup-token for unattended jobs.

@@ -1,0 +1,121 @@
+40 warnings generated.
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:52:58: warning: do not manage memory manually; consider a container or a smart pointer [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_000(void) { void *p = malloc(64); (void)p; }
+                                                         ^~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:54:58: warning: do not manage memory manually; consider a container or a smart pointer [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_001(void) { void *p = calloc(17, 8); (void)p; }
+                                                         ^~~~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:56:58: warning: do not manage memory manually; consider std::vector or std::string [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_002(void) { void *p = realloc((void *)0, 66); (void)p; }
+                                                         ^~~~~~~~~~~~~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:62:58: warning: do not manage memory manually; consider a container or a smart pointer [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_005(void) { void *p = malloc(69); (void)p; }
+                                                         ^~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:64:58: warning: do not manage memory manually; consider a container or a smart pointer [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_006(void) { void *p = calloc(22, 8); (void)p; }
+                                                         ^~~~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:66:58: warning: do not manage memory manually; consider std::vector or std::string [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_007(void) { void *p = realloc((void *)0, 71); (void)p; }
+                                                         ^~~~~~~~~~~~~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:72:58: warning: do not manage memory manually; consider a container or a smart pointer [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_010(void) { void *p = malloc(74); (void)p; }
+                                                         ^~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:74:58: warning: do not manage memory manually; consider a container or a smart pointer [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_011(void) { void *p = calloc(19, 8); (void)p; }
+                                                         ^~~~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:76:58: warning: do not manage memory manually; consider std::vector or std::string [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_012(void) { void *p = realloc((void *)0, 76); (void)p; }
+                                                         ^~~~~~~~~~~~~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:82:58: warning: do not manage memory manually; consider a container or a smart pointer [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_015(void) { void *p = malloc(79); (void)p; }
+                                                         ^~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:84:58: warning: do not manage memory manually; consider a container or a smart pointer [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_016(void) { void *p = calloc(16, 8); (void)p; }
+                                                         ^~~~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:86:58: warning: do not manage memory manually; consider std::vector or std::string [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_017(void) { void *p = realloc((void *)0, 81); (void)p; }
+                                                         ^~~~~~~~~~~~~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:92:58: warning: do not manage memory manually; consider a container or a smart pointer [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_020(void) { void *p = malloc(84); (void)p; }
+                                                         ^~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:94:58: warning: do not manage memory manually; consider a container or a smart pointer [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_021(void) { void *p = calloc(21, 8); (void)p; }
+                                                         ^~~~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:96:58: warning: do not manage memory manually; consider std::vector or std::string [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_022(void) { void *p = realloc((void *)0, 86); (void)p; }
+                                                         ^~~~~~~~~~~~~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:102:58: warning: do not manage memory manually; consider a container or a smart pointer [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_025(void) { void *p = malloc(89); (void)p; }
+                                                         ^~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:104:58: warning: do not manage memory manually; consider a container or a smart pointer [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_026(void) { void *p = calloc(18, 8); (void)p; }
+                                                         ^~~~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:106:58: warning: do not manage memory manually; consider std::vector or std::string [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_027(void) { void *p = realloc((void *)0, 91); (void)p; }
+                                                         ^~~~~~~~~~~~~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:112:58: warning: do not manage memory manually; consider a container or a smart pointer [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_030(void) { void *p = malloc(94); (void)p; }
+                                                         ^~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:114:58: warning: do not manage memory manually; consider a container or a smart pointer [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_031(void) { void *p = calloc(23, 8); (void)p; }
+                                                         ^~~~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:116:58: warning: do not manage memory manually; consider std::vector or std::string [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_032(void) { void *p = realloc((void *)0, 96); (void)p; }
+                                                         ^~~~~~~~~~~~~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:122:58: warning: do not manage memory manually; consider a container or a smart pointer [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_035(void) { void *p = malloc(99); (void)p; }
+                                                         ^~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:124:58: warning: do not manage memory manually; consider a container or a smart pointer [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_036(void) { void *p = calloc(20, 8); (void)p; }
+                                                         ^~~~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:126:58: warning: do not manage memory manually; consider std::vector or std::string [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_037(void) { void *p = realloc((void *)0, 101); (void)p; }
+                                                         ^~~~~~~~~~~~~~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:132:58: warning: do not manage memory manually; consider a container or a smart pointer [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_040(void) { void *p = malloc(104); (void)p; }
+                                                         ^~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:134:58: warning: do not manage memory manually; consider a container or a smart pointer [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_041(void) { void *p = calloc(17, 8); (void)p; }
+                                                         ^~~~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:136:58: warning: do not manage memory manually; consider std::vector or std::string [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_042(void) { void *p = realloc((void *)0, 106); (void)p; }
+                                                         ^~~~~~~~~~~~~~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:142:58: warning: do not manage memory manually; consider a container or a smart pointer [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_045(void) { void *p = malloc(109); (void)p; }
+                                                         ^~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:144:58: warning: do not manage memory manually; consider a container or a smart pointer [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_046(void) { void *p = calloc(22, 8); (void)p; }
+                                                         ^~~~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:146:58: warning: do not manage memory manually; consider std::vector or std::string [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_047(void) { void *p = realloc((void *)0, 111); (void)p; }
+                                                         ^~~~~~~~~~~~~~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:152:58: warning: do not manage memory manually; consider a container or a smart pointer [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_050(void) { void *p = malloc(114); (void)p; }
+                                                         ^~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:154:58: warning: do not manage memory manually; consider a container or a smart pointer [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_051(void) { void *p = calloc(19, 8); (void)p; }
+                                                         ^~~~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:156:58: warning: do not manage memory manually; consider std::vector or std::string [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_052(void) { void *p = realloc((void *)0, 116); (void)p; }
+                                                         ^~~~~~~~~~~~~~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:162:58: warning: do not manage memory manually; consider a container or a smart pointer [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_055(void) { void *p = malloc(119); (void)p; }
+                                                         ^~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:164:58: warning: do not manage memory manually; consider a container or a smart pointer [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_056(void) { void *p = calloc(16, 8); (void)p; }
+                                                         ^~~~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:166:58: warning: do not manage memory manually; consider std::vector or std::string [cppcoreguidelines-no-malloc]
+__attribute__((hot)) void hot_heap_057(void) { void *p = realloc((void *)0, 121); (void)p; }
+                                                         ^~~~~~~~~~~~~~~~~~~~~~~
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:308:67: warning: function is not thread safe [concurrency-mt-unsafe]
+__attribute__((hot)) void hot_syscall_008(void) { long r = (long)(sleep(1)); (void)r; }
+                                                                  ^
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:342:67: warning: function is not thread safe [concurrency-mt-unsafe]
+__attribute__((hot)) void hot_syscall_025(void) { long r = (long)(sleep(1)); (void)r; }
+                                                                  ^
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:376:67: warning: function is not thread safe [concurrency-mt-unsafe]
+__attribute__((hot)) void hot_syscall_042(void) { long r = (long)(sleep(1)); (void)r; }
+                                                                  ^
+/mnt/c/Users/Manas/Downloads/Auto Job Applier/Total Job Application process flow/projects/llvm-header-rmw-coalescing/build_test/hazard_corpus.cpp:410:67: warning: function is not thread safe [concurrency-mt-unsafe]
+__attribute__((hot)) void hot_syscall_059(void) { long r = (long)(sleep(1)); (void)r; }
+                                                                  ^

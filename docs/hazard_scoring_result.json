@@ -1,0 +1,38 @@
+{
+  "total_seeded": 250,
+  "caught": 240,
+  "missed_names": [
+    "hot_lockredirect_000",
+    "hot_lockredirect_001",
+    "hot_lockredirect_002",
+    "hot_lockredirect_003",
+    "hot_lockredirect_004",
+    "hot_syscallredirect_000",
+    "hot_syscallredirect_001",
+    "hot_syscallredirect_002",
+    "hot_syscallredirect_003",
+    "hot_syscallredirect_004"
+  ],
+  "false_positives": 18,
+  "fp_functions": [
+    "clean_fp_000",
+    "clean_fp_001",
+    "clean_fp_002",
+    "clean_fp_003",
+    "clean_fp_004",
+    "clean_fp_005",
+    "clean_fp_006",
+    "clean_fp_007",
+    "clean_fp_008",
+    "clean_fp_009",
+    "clean_fp_010",
+    "clean_fp_011",
+    "clean_fp_012",
+    "clean_fp_013",
+    "clean_fp_014",
+    "clean_fp_015",
+    "clean_fp_016",
+    "clean_fp_017"
+  ],
+  "precision": 0.9302325581395349
+}

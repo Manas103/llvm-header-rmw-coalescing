@@ -18,3 +18,7 @@ add_definitions(${LLVM_DEFINITIONS})
 add_library(RmwCoalesce MODULE src/RmwCoalesce.cpp)
 target_compile_options(RmwCoalesce PRIVATE -fno-rtti)
 set_target_properties(RmwCoalesce PROPERTIES PREFIX "lib" SUFFIX ".so")
+
+add_library(HazardAnalysis MODULE src/HazardAnalysis.cpp)
+target_compile_options(HazardAnalysis PRIVATE -fno-rtti)
+set_target_properties(HazardAnalysis PROPERTIES PREFIX "lib" SUFFIX ".so")

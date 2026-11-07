@@ -1,0 +1,1702 @@
+[
+  {
+    "name": "hot_heap_000",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "malloc"
+  },
+  {
+    "name": "hot_heap_001",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "calloc"
+  },
+  {
+    "name": "hot_heap_002",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "realloc"
+  },
+  {
+    "name": "hot_heap_003",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "aligned_alloc"
+  },
+  {
+    "name": "hot_heap_004",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "posix_memalign"
+  },
+  {
+    "name": "hot_heap_005",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "malloc"
+  },
+  {
+    "name": "hot_heap_006",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "calloc"
+  },
+  {
+    "name": "hot_heap_007",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "realloc"
+  },
+  {
+    "name": "hot_heap_008",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "aligned_alloc"
+  },
+  {
+    "name": "hot_heap_009",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "posix_memalign"
+  },
+  {
+    "name": "hot_heap_010",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "malloc"
+  },
+  {
+    "name": "hot_heap_011",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "calloc"
+  },
+  {
+    "name": "hot_heap_012",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "realloc"
+  },
+  {
+    "name": "hot_heap_013",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "aligned_alloc"
+  },
+  {
+    "name": "hot_heap_014",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "posix_memalign"
+  },
+  {
+    "name": "hot_heap_015",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "malloc"
+  },
+  {
+    "name": "hot_heap_016",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "calloc"
+  },
+  {
+    "name": "hot_heap_017",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "realloc"
+  },
+  {
+    "name": "hot_heap_018",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "aligned_alloc"
+  },
+  {
+    "name": "hot_heap_019",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "posix_memalign"
+  },
+  {
+    "name": "hot_heap_020",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "malloc"
+  },
+  {
+    "name": "hot_heap_021",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "calloc"
+  },
+  {
+    "name": "hot_heap_022",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "realloc"
+  },
+  {
+    "name": "hot_heap_023",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "aligned_alloc"
+  },
+  {
+    "name": "hot_heap_024",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "posix_memalign"
+  },
+  {
+    "name": "hot_heap_025",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "malloc"
+  },
+  {
+    "name": "hot_heap_026",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "calloc"
+  },
+  {
+    "name": "hot_heap_027",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "realloc"
+  },
+  {
+    "name": "hot_heap_028",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "aligned_alloc"
+  },
+  {
+    "name": "hot_heap_029",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "posix_memalign"
+  },
+  {
+    "name": "hot_heap_030",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "malloc"
+  },
+  {
+    "name": "hot_heap_031",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "calloc"
+  },
+  {
+    "name": "hot_heap_032",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "realloc"
+  },
+  {
+    "name": "hot_heap_033",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "aligned_alloc"
+  },
+  {
+    "name": "hot_heap_034",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "posix_memalign"
+  },
+  {
+    "name": "hot_heap_035",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "malloc"
+  },
+  {
+    "name": "hot_heap_036",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "calloc"
+  },
+  {
+    "name": "hot_heap_037",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "realloc"
+  },
+  {
+    "name": "hot_heap_038",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "aligned_alloc"
+  },
+  {
+    "name": "hot_heap_039",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "posix_memalign"
+  },
+  {
+    "name": "hot_heap_040",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "malloc"
+  },
+  {
+    "name": "hot_heap_041",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "calloc"
+  },
+  {
+    "name": "hot_heap_042",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "realloc"
+  },
+  {
+    "name": "hot_heap_043",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "aligned_alloc"
+  },
+  {
+    "name": "hot_heap_044",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "posix_memalign"
+  },
+  {
+    "name": "hot_heap_045",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "malloc"
+  },
+  {
+    "name": "hot_heap_046",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "calloc"
+  },
+  {
+    "name": "hot_heap_047",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "realloc"
+  },
+  {
+    "name": "hot_heap_048",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "aligned_alloc"
+  },
+  {
+    "name": "hot_heap_049",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "posix_memalign"
+  },
+  {
+    "name": "hot_heap_050",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "malloc"
+  },
+  {
+    "name": "hot_heap_051",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "calloc"
+  },
+  {
+    "name": "hot_heap_052",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "realloc"
+  },
+  {
+    "name": "hot_heap_053",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "aligned_alloc"
+  },
+  {
+    "name": "hot_heap_054",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "posix_memalign"
+  },
+  {
+    "name": "hot_heap_055",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "malloc"
+  },
+  {
+    "name": "hot_heap_056",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "calloc"
+  },
+  {
+    "name": "hot_heap_057",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "realloc"
+  },
+  {
+    "name": "hot_heap_058",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "aligned_alloc"
+  },
+  {
+    "name": "hot_heap_059",
+    "kind": "seeded",
+    "true_category": "heap_alloc",
+    "symbol": "posix_memalign"
+  },
+  {
+    "name": "hot_lock_000",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_mutex_lock"
+  },
+  {
+    "name": "hot_lock_001",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_mutex_trylock"
+  },
+  {
+    "name": "hot_lock_002",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_rwlock_rdlock"
+  },
+  {
+    "name": "hot_lock_003",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_rwlock_wrlock"
+  },
+  {
+    "name": "hot_lock_004",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_spin_lock"
+  },
+  {
+    "name": "hot_lock_005",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "sem_wait"
+  },
+  {
+    "name": "hot_lock_006",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_mutex_lock"
+  },
+  {
+    "name": "hot_lock_007",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_mutex_trylock"
+  },
+  {
+    "name": "hot_lock_008",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_rwlock_rdlock"
+  },
+  {
+    "name": "hot_lock_009",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_rwlock_wrlock"
+  },
+  {
+    "name": "hot_lock_010",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_spin_lock"
+  },
+  {
+    "name": "hot_lock_011",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "sem_wait"
+  },
+  {
+    "name": "hot_lock_012",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_mutex_lock"
+  },
+  {
+    "name": "hot_lock_013",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_mutex_trylock"
+  },
+  {
+    "name": "hot_lock_014",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_rwlock_rdlock"
+  },
+  {
+    "name": "hot_lock_015",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_rwlock_wrlock"
+  },
+  {
+    "name": "hot_lock_016",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_spin_lock"
+  },
+  {
+    "name": "hot_lock_017",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "sem_wait"
+  },
+  {
+    "name": "hot_lock_018",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_mutex_lock"
+  },
+  {
+    "name": "hot_lock_019",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_mutex_trylock"
+  },
+  {
+    "name": "hot_lock_020",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_rwlock_rdlock"
+  },
+  {
+    "name": "hot_lock_021",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_rwlock_wrlock"
+  },
+  {
+    "name": "hot_lock_022",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_spin_lock"
+  },
+  {
+    "name": "hot_lock_023",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "sem_wait"
+  },
+  {
+    "name": "hot_lock_024",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_mutex_lock"
+  },
+  {
+    "name": "hot_lock_025",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_mutex_trylock"
+  },
+  {
+    "name": "hot_lock_026",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_rwlock_rdlock"
+  },
+  {
+    "name": "hot_lock_027",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_rwlock_wrlock"
+  },
+  {
+    "name": "hot_lock_028",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_spin_lock"
+  },
+  {
+    "name": "hot_lock_029",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "sem_wait"
+  },
+  {
+    "name": "hot_lock_030",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_mutex_lock"
+  },
+  {
+    "name": "hot_lock_031",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_mutex_trylock"
+  },
+  {
+    "name": "hot_lock_032",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_rwlock_rdlock"
+  },
+  {
+    "name": "hot_lock_033",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_rwlock_wrlock"
+  },
+  {
+    "name": "hot_lock_034",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_spin_lock"
+  },
+  {
+    "name": "hot_lock_035",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "sem_wait"
+  },
+  {
+    "name": "hot_lock_036",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_mutex_lock"
+  },
+  {
+    "name": "hot_lock_037",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_mutex_trylock"
+  },
+  {
+    "name": "hot_lock_038",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_rwlock_rdlock"
+  },
+  {
+    "name": "hot_lock_039",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_rwlock_wrlock"
+  },
+  {
+    "name": "hot_lock_040",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_spin_lock"
+  },
+  {
+    "name": "hot_lock_041",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "sem_wait"
+  },
+  {
+    "name": "hot_lock_042",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_mutex_lock"
+  },
+  {
+    "name": "hot_lock_043",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_mutex_trylock"
+  },
+  {
+    "name": "hot_lock_044",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_rwlock_rdlock"
+  },
+  {
+    "name": "hot_lock_045",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_rwlock_wrlock"
+  },
+  {
+    "name": "hot_lock_046",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_spin_lock"
+  },
+  {
+    "name": "hot_lock_047",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "sem_wait"
+  },
+  {
+    "name": "hot_lock_048",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_mutex_lock"
+  },
+  {
+    "name": "hot_lock_049",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_mutex_trylock"
+  },
+  {
+    "name": "hot_lock_050",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_rwlock_rdlock"
+  },
+  {
+    "name": "hot_lock_051",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_rwlock_wrlock"
+  },
+  {
+    "name": "hot_lock_052",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_spin_lock"
+  },
+  {
+    "name": "hot_lock_053",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "sem_wait"
+  },
+  {
+    "name": "hot_lock_054",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_mutex_lock"
+  },
+  {
+    "name": "hot_lock_055",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_mutex_trylock"
+  },
+  {
+    "name": "hot_lock_056",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_rwlock_rdlock"
+  },
+  {
+    "name": "hot_lock_057",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_rwlock_wrlock"
+  },
+  {
+    "name": "hot_lock_058",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_spin_lock"
+  },
+  {
+    "name": "hot_lock_059",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "sem_wait"
+  },
+  {
+    "name": "hot_syscall_000",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "read"
+  },
+  {
+    "name": "hot_syscall_001",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "write"
+  },
+  {
+    "name": "hot_syscall_002",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "recv"
+  },
+  {
+    "name": "hot_syscall_003",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "send"
+  },
+  {
+    "name": "hot_syscall_004",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "recvfrom"
+  },
+  {
+    "name": "hot_syscall_005",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "sendto"
+  },
+  {
+    "name": "hot_syscall_006",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "accept"
+  },
+  {
+    "name": "hot_syscall_007",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "connect"
+  },
+  {
+    "name": "hot_syscall_008",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "sleep"
+  },
+  {
+    "name": "hot_syscall_009",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "usleep"
+  },
+  {
+    "name": "hot_syscall_010",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "nanosleep"
+  },
+  {
+    "name": "hot_syscall_011",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "poll"
+  },
+  {
+    "name": "hot_syscall_012",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "select"
+  },
+  {
+    "name": "hot_syscall_013",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "waitpid"
+  },
+  {
+    "name": "hot_syscall_014",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "fopen"
+  },
+  {
+    "name": "hot_syscall_015",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "fread"
+  },
+  {
+    "name": "hot_syscall_016",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "fwrite"
+  },
+  {
+    "name": "hot_syscall_017",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "read"
+  },
+  {
+    "name": "hot_syscall_018",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "write"
+  },
+  {
+    "name": "hot_syscall_019",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "recv"
+  },
+  {
+    "name": "hot_syscall_020",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "send"
+  },
+  {
+    "name": "hot_syscall_021",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "recvfrom"
+  },
+  {
+    "name": "hot_syscall_022",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "sendto"
+  },
+  {
+    "name": "hot_syscall_023",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "accept"
+  },
+  {
+    "name": "hot_syscall_024",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "connect"
+  },
+  {
+    "name": "hot_syscall_025",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "sleep"
+  },
+  {
+    "name": "hot_syscall_026",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "usleep"
+  },
+  {
+    "name": "hot_syscall_027",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "nanosleep"
+  },
+  {
+    "name": "hot_syscall_028",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "poll"
+  },
+  {
+    "name": "hot_syscall_029",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "select"
+  },
+  {
+    "name": "hot_syscall_030",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "waitpid"
+  },
+  {
+    "name": "hot_syscall_031",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "fopen"
+  },
+  {
+    "name": "hot_syscall_032",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "fread"
+  },
+  {
+    "name": "hot_syscall_033",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "fwrite"
+  },
+  {
+    "name": "hot_syscall_034",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "read"
+  },
+  {
+    "name": "hot_syscall_035",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "write"
+  },
+  {
+    "name": "hot_syscall_036",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "recv"
+  },
+  {
+    "name": "hot_syscall_037",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "send"
+  },
+  {
+    "name": "hot_syscall_038",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "recvfrom"
+  },
+  {
+    "name": "hot_syscall_039",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "sendto"
+  },
+  {
+    "name": "hot_syscall_040",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "accept"
+  },
+  {
+    "name": "hot_syscall_041",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "connect"
+  },
+  {
+    "name": "hot_syscall_042",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "sleep"
+  },
+  {
+    "name": "hot_syscall_043",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "usleep"
+  },
+  {
+    "name": "hot_syscall_044",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "nanosleep"
+  },
+  {
+    "name": "hot_syscall_045",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "poll"
+  },
+  {
+    "name": "hot_syscall_046",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "select"
+  },
+  {
+    "name": "hot_syscall_047",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "waitpid"
+  },
+  {
+    "name": "hot_syscall_048",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "fopen"
+  },
+  {
+    "name": "hot_syscall_049",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "fread"
+  },
+  {
+    "name": "hot_syscall_050",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "fwrite"
+  },
+  {
+    "name": "hot_syscall_051",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "read"
+  },
+  {
+    "name": "hot_syscall_052",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "write"
+  },
+  {
+    "name": "hot_syscall_053",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "recv"
+  },
+  {
+    "name": "hot_syscall_054",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "send"
+  },
+  {
+    "name": "hot_syscall_055",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "recvfrom"
+  },
+  {
+    "name": "hot_syscall_056",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "sendto"
+  },
+  {
+    "name": "hot_syscall_057",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "accept"
+  },
+  {
+    "name": "hot_syscall_058",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "connect"
+  },
+  {
+    "name": "hot_syscall_059",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "sleep"
+  },
+  {
+    "name": "hot_virtual_000",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_001",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_002",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_003",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_004",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_005",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_006",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_007",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_008",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_009",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_010",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_011",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_012",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_013",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_014",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_015",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_016",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_017",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_018",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_019",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_020",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_021",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_022",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_023",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_024",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_025",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_026",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_027",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_028",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_029",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_030",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_031",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_032",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_033",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_034",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_035",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_036",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_037",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_038",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_039",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_040",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_041",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_042",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_043",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_044",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_045",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_046",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_047",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_048",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_049",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_050",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_051",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_052",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_053",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_054",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_055",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_056",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_057",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_058",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_virtual_059",
+    "kind": "seeded",
+    "true_category": "virtual_dispatch",
+    "symbol": "cmp_asc"
+  },
+  {
+    "name": "hot_lockredirect_000",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_mutex_lock",
+    "redirected": true
+  },
+  {
+    "name": "hot_lockredirect_001",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_mutex_trylock",
+    "redirected": true
+  },
+  {
+    "name": "hot_lockredirect_002",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_rwlock_rdlock",
+    "redirected": true
+  },
+  {
+    "name": "hot_lockredirect_003",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_rwlock_wrlock",
+    "redirected": true
+  },
+  {
+    "name": "hot_lockredirect_004",
+    "kind": "seeded",
+    "true_category": "locking",
+    "symbol": "pthread_spin_lock",
+    "redirected": true
+  },
+  {
+    "name": "hot_syscallredirect_000",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "sleep",
+    "redirected": true
+  },
+  {
+    "name": "hot_syscallredirect_001",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "sleep",
+    "redirected": true
+  },
+  {
+    "name": "hot_syscallredirect_002",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "sleep",
+    "redirected": true
+  },
+  {
+    "name": "hot_syscallredirect_003",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "sleep",
+    "redirected": true
+  },
+  {
+    "name": "hot_syscallredirect_004",
+    "kind": "seeded",
+    "true_category": "blocking_syscall",
+    "symbol": "sleep",
+    "redirected": true
+  },
+  {
+    "name": "clean_fp_000",
+    "kind": "clean_fp",
+    "true_category": null
+  },
+  {
+    "name": "clean_fp_001",
+    "kind": "clean_fp",
+    "true_category": null
+  },
+  {
+    "name": "clean_fp_002",
+    "kind": "clean_fp",
+    "true_category": null
+  },
+  {
+    "name": "clean_fp_003",
+    "kind": "clean_fp",
+    "true_category": null
+  },
+  {
+    "name": "clean_fp_004",
+    "kind": "clean_fp",
+    "true_category": null
+  },
+  {
+    "name": "clean_fp_005",
+    "kind": "clean_fp",
+    "true_category": null
+  },
+  {
+    "name": "clean_fp_006",
+    "kind": "clean_fp",
+    "true_category": null
+  },
+  {
+    "name": "clean_fp_007",
+    "kind": "clean_fp",
+    "true_category": null
+  },
+  {
+    "name": "clean_fp_008",
+    "kind": "clean_fp",
+    "true_category": null
+  },
+  {
+    "name": "clean_fp_009",
+    "kind": "clean_fp",
+    "true_category": null
+  },
+  {
+    "name": "clean_fp_010",
+    "kind": "clean_fp",
+    "true_category": null
+  },
+  {
+    "name": "clean_fp_011",
+    "kind": "clean_fp",
+    "true_category": null
+  },
+  {
+    "name": "clean_fp_012",
+    "kind": "clean_fp",
+    "true_category": null
+  },
+  {
+    "name": "clean_fp_013",
+    "kind": "clean_fp",
+    "true_category": null
+  },
+  {
+    "name": "clean_fp_014",
+    "kind": "clean_fp",
+    "true_category": null
+  },
+  {
+    "name": "clean_fp_015",
+    "kind": "clean_fp",
+    "true_category": null
+  },
+  {
+    "name": "clean_fp_016",
+    "kind": "clean_fp",
+    "true_category": null
+  },
+  {
+    "name": "clean_fp_017",
+    "kind": "clean_fp",
+    "true_category": null
+  },
+  {
+    "name": "clean_plain_000",
+    "kind": "clean",
+    "true_category": null
+  },
+  {
+    "name": "clean_plain_001",
+    "kind": "clean",
+    "true_category": null
+  },
+  {
+    "name": "clean_plain_002",
+    "kind": "clean",
+    "true_category": null
+  },
+  {
+    "name": "clean_plain_003",
+    "kind": "clean",
+    "true_category": null
+  },
+  {
+    "name": "clean_plain_004",
+    "kind": "clean",
+    "true_category": null
+  },
+  {
+    "name": "clean_plain_005",
+    "kind": "clean",
+    "true_category": null
+  },
+  {
+    "name": "clean_plain_006",
+    "kind": "clean",
+    "true_category": null
+  },
+  {
+    "name": "clean_plain_007",
+    "kind": "clean",
+    "true_category": null
+  },
+  {
+    "name": "clean_plain_008",
+    "kind": "clean",
+    "true_category": null
+  },
+  {
+    "name": "clean_plain_009",
+    "kind": "clean",
+    "true_category": null
+  },
+  {
+    "name": "clean_plain_010",
+    "kind": "clean",
+    "true_category": null
+  },
+  {
+    "name": "clean_plain_011",
+    "kind": "clean",
+    "true_category": null
+  },
+  {
+    "name": "clean_plain_012",
+    "kind": "clean",
+    "true_category": null
+  },
+  {
+    "name": "clean_plain_013",
+    "kind": "clean",
+    "true_category": null
+  },
+  {
+    "name": "clean_plain_014",
+    "kind": "clean",
+    "true_category": null
+  },
+  {
+    "name": "clean_plain_015",
+    "kind": "clean",
+    "true_category": null
+  },
+  {
+    "name": "clean_plain_016",
+    "kind": "clean",
+    "true_category": null
+  },
+  {
+    "name": "clean_plain_017",
+    "kind": "clean",
+    "true_category": null
+  },
+  {
+    "name": "clean_plain_018",
+    "kind": "clean",
+    "true_category": null
+  },
+  {
+    "name": "clean_plain_019",
+    "kind": "clean",
+    "true_category": null
+  }
+]
